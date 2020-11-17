@@ -1,0 +1,47 @@
+{
+    "theme": "dark",
+    "profiles":
+    {
+        "list":
+        [
+            {
+                "commandline": "ssh hampus@server",
+                "name": "hampus@facit",
+                "hidden": false,
+                "colorScheme": "finess",
+                "cursorShape": "underscore",
+                "tabColor": "#1a1a1a",
+                "snapOnInput": true
+            }
+        ]
+    },
+    "schemes": [
+        {
+            "name" : "finess",
+
+            "cursorColor": "#ffffff",
+        
+            "selectionBackground": "#FFFFFF",
+        
+            "background" : "#1a1a1a",
+            "foreground" : "#CCCCCC",
+        
+            "black" : "#000000",
+            "blue" : "#2d49d2",
+            "cyan" : "#1697a0",
+            "green" : "#2caf25",
+            "purple" : "#8e44ad",
+            "red" : "#e74c3c",
+            "white" : "#CCCCCC",
+            "yellow" : "#f3cd12",
+            "brightBlack" : "#767676",
+            "brightBlue" : "#2e89c5",
+            "brightCyan" : "#05d6e0",
+            "brightGreen" : "#67c727",
+            "brightPurple" : "#b76abd",
+            "brightRed" : "#ee6a5b",
+            "brightWhite" : "#F2F2F2",
+            "brightYellow" : "#eff15c"
+        }
+    ]
+}
