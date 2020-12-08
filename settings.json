@@ -5,8 +5,8 @@
         "list":
         [
             {
-                "commandline": "ssh hampus@server",
-                "name": "hampus@facit",
+                "commandline": "ssh username@server",
+                "name": "username@facit",
                 "hidden": false,
                 "colorScheme": "finess",
                 "cursorShape": "underscore",
